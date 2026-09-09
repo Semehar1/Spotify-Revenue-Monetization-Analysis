@@ -18,7 +18,7 @@ The dashboard is designed to answer one key question:
 
 ![Spotify Revenue Performance](images/spotify-dashboard.png)
 
-The `.pbix` file is in [`/pbix`](pbix/Spotify_Revenue_Monetization_Analysis.pbix) — open it in Power BI Desktop to explore the live model, filters, and DAX measures.
+The `.pbix` file is available in the repository — open it in Power BI Desktop to explore the live model, filters, and DAX measures.
 
 ## Approach
 
